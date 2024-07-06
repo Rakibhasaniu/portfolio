@@ -1,0 +1,187 @@
+    [
+        {
+            "id": "6",
+            "img": "https://i.ibb.co/mCJqXw9/pbImg1.png",
+            "name": "Select Best Five",
+            "details": [
+                "It's a sports related website",
+                "You can select best five players from the all players",
+                "Budget calculation included. Responsive for all device"
+            ]
+        },
+        {
+            "id": "6",
+            "img": "https://i.ibb.co/TctPvCq/pbImg2.png",
+            "name": "Select Best Five",
+            "details": [
+                "You can select the best five players from the lists",
+                "After completing the five players, selection system will automatically disabled and you can see that in a toast",
+                "This website has created with VSC, HTML,React, JavaScript, VSC has used for developing this project"
+            ]
+        },
+        {
+            "id": "6",
+            "img": "https://i.ibb.co/ZSpjgCC/pbImg3.png",
+            "name": "Select Best Five",
+            "details": [
+                "Here you can calculate the budget",
+                "Just write the amount in the boxes and calculate the result",
+                "This site has deployed by netlify"
+            ]
+        },
+        {
+            "id": "1",
+            "img": "https://i.ibb.co/2yCtVHr/ftcImg1.png",
+            "name": "Flora The Chef",
+            "details": [
+                "This is a personal service review-based project where",
+                "The Chef Called Flora works with homemade food, party dishes etc",
+                "This website developed by VSC, HTML, React, React router, JavaScript",
+                "Designed by Tailwind CSS, Daisy UI",
+                "Data stored in MongoDB",
+                "Backend deployed with vercel",
+                "Frontend deployed with firebase"
+            ]
+        },
+        {
+            "id": "1",
+            "img": "https://i.ibb.co/xXnzx71/ftcImg2.png",
+            "name": "Flora The Chef",
+            "details": [
+                "Here customer can explore different kind of service in this page",
+                "They can book the chef for their desire services",
+                "If anybody want to add their personal service, they can add",
+                "Any customer can add their personal review for each different service"
+            ]
+        },
+        {
+            "id": "1",
+            "img": "https://i.ibb.co/JQCkJyS/ftcImg3.png",
+            "name": "Flora The Chef",
+            "details": [
+                "Login and register system has also implemented",
+                "If anybody want to access the private route", 
+                "they have to login or register first",
+                "Then they can see their own reviews",
+                "The login persons also can add their service"
+            ]
+        },
+        {
+            "id": "3",
+            "img": "https://i.ibb.co/z4pzvd5/uloImg1.png",
+            "name": "ULearning",
+            "details": [
+                "It's e-learning website where courses has included category wise",
+                "Course Details also added",
+                "You can download the course details as pdf file",
+                "This site has developed by HTML, React, JavaScript",
+                "Designed by Tailwind CSS, Deployed with Netlify."
+            ]
+        },
+        {
+            "id": "3",
+            "img": "https://i.ibb.co/Hz5wR59/uloImg2.png",
+            "name": "ULearning",
+            "details": [
+                "All courses has displayed in this page", 
+                "You can visit the courses category wise"
+            ]
+        },
+        {
+            "id": "3",
+            "img": "https://i.ibb.co/hFJd6cf/uloImg3.png",
+            "name": "ULearning",
+            "details": [
+                "Every single course details will display in this page", 
+                "You can download the pdf copy of course details from here"
+            ]
+        },
+        {
+            "id": "2",
+            "img": "https://i.ibb.co/PwCYHnM/wwraImg1.png",
+            "name": "Weekly Walking Routine App",
+            "details": [
+                "It's an app by which you can maintain your daily walking routine", 
+                "You can count your walking time and break time", 
+                "After complete your daily target, you can see a Congratulation message in a toast", 
+                "This site has developed by HTMl, React, JavaScript", 
+                "Designed with Tailwind CSS. Deployed with Netlify"
+            ]
+        },
+        {
+            "id": "4",
+            "img": "https://i.ibb.co/MVvnFqv/uccImg1.png",
+            "name": "Used Cloth Collection",
+            "details": [
+                "A dynamic website of Used Cloth Collection",
+                "Admin can control buyer and seller, seller can add their products for sell, buyer can buy their products", 
+                "Each buyer, seller and admin has different route with different functionalities", 
+                "Seller can advertise all available products in the home page", 
+                "Admin can access all buyer and seller", 
+                "Admin also can remove any buyer and seller"
+            ]
+        },
+        {
+            "id": "4",
+            "img": "https://i.ibb.co/ZTt6xVF/uccImg2.png",
+            "name": "Used Cloth Collection",
+            "details": [
+                "Buyers can visit this page only by login the account",
+                "They also can add their desire products in order lists", 
+                "MongoDB has used as database",
+                "Backend deployed with vercel and fronted deployed in firebase",
+                "Login and register system has also included"
+            ]
+        },
+        {
+            "id": "4",
+            "img": "https://i.ibb.co/8jnnf6d/uccImg3.png",
+            "name": "Used Cloth Collection",
+            "details": [
+                "By providing all necessary information, a seller can add their desire products in order lists",
+                "They also can pay bill from the list",
+                "This site has designed with Tailwind CSS and daisy UI"
+            ]
+        },
+        {
+            "id": "4",
+            "img": "https://i.ibb.co/Gp93zQd/uccImg4.png",
+            "name": "Used Cloth Collection",
+            "details": [
+                "Online payment system has included here",
+                "Buyer can easily pay their bill from the listed products",
+                "Payment has implemented by Stripe",
+                "React, JavaScript, HTML, nodeJS, expressJS, VSC has used for developing this project"
+            ]
+        },
+        {
+            "id": "5",
+            "img": "https://i.ibb.co/SRqB6gv/dnImg1.png",
+            "name": "Daily News",
+            "details": [
+                "It's a newspaper website. Different kind of news included",
+                "You can find here news according to category, details news is also available",
+                "This website has created with VSC, HTML,React, JavaScript, VSC has used for developing this project"
+            ]
+        },
+        {
+            "id": "5",
+            "img": "https://i.ibb.co/d4LSWSR/dnImg3.png",
+            "name": "Daily News",
+            "details": [
+                "Different kind of question answers has given in this blog page",
+                "This page has designed by Bootstrap. This site has deployed in Netlify"
+            ]
+        },
+        {
+            "id": "5",
+            "img": "https://i.ibb.co/N9dMT5Z/dnImg2.png",
+            "name": "Daily News",
+            "details": [
+                "You can visit the news according to category",
+                "Different type of newses category has included",
+                "You can visit your desire site according to category",
+                "News has displayed in descending order according to view"
+            ]
+        }
+    ]
